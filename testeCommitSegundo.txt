@@ -1,2 +1,4 @@
 segundo commit logado
 segundo commit logado
+
+TESTE2 - GIT
